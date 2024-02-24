@@ -1,3 +1,1 @@
-# .github
-
-#Welcome to the Fire Station
+# Welcome to the Fire Station
