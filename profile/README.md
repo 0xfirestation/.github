@@ -1,12 +1,15 @@
-## Hi there 👋
+[![Chat on Twitter][ico-twitter]][link-twitter]
+[![Website][ico-website]][link-website]
 
-<!--
+</div>
 
-**Here are some ideas to get you started:**
+[ico-twitter]: https://img.shields.io/twitter/url?label=FireChain&style=social&url=https%3A%2F%2Ftwitter.com%2Fthefirechain
+[ico-website]: https://img.shields.io/static/v1?label=docs&message=FireChain&color=7B3FE4
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[link-twitter]: https://twitter.com/thefirechain
+[link-website]: https://docs.thefirechain.com
+
+
+- `firechain zkEVM` is a new zk-rollup that provides Ethereum Virtual Machine (EVM) equivalence (opcode-level compatibility) for a transparent user experience and existing Ethereum ecosystem and tooling compatibility.
+- It consists on a decentralized Ethereum Layer 2 scalability solution utilising cryptographic zero-knowledge technology to provide validation and fast finality of off-chain transaction computations.
+- This approach required the recreation of all EVM opcodes for transparent deployment and transactions with existing Ethereum smart contracts. For this purpose a new set of tools and technologies were created and engineered and are contained in this organization.
